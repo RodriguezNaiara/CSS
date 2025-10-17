@@ -1,0 +1,23 @@
+#cabecera {
+    background-color: burlywood ; 
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+#cuerpo {
+    background-color: blanchedalmond; 
+    color: gray;
+    padding: 20px;
+    font-size: 18px;
+}
+
+/* Estilo para el pie */
+#pie {
+    background-color: burlywood; /* gris oscuro */
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
