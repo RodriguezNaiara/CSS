@@ -1,0 +1,7 @@
+p, h6 {
+  font-family: Arial, Helvetica, sans-serif; 
+  color: blue; 
+  font-size: 18px;
+  h6 { font-size:24px;}
+  p {font-size:24px;}
+}
